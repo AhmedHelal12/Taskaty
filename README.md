@@ -4,8 +4,8 @@
 This is a basic CLI to-do list python application that applied the basic syntax of python like loops,lists,dictinaries,dealing with files, and OOP
 
 ## installation
-1-clone the repo to your local computer: https://github.com/AhmedHelal12/Taskaty.git
-2-pip install tabulate
+1. clone the repo to your local computer: https://github.com/AhmedHelal12/Taskaty.git   
+2. pip install tabulate   
 
 ### usage
 
